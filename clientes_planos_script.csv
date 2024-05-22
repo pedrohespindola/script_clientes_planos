@@ -73,3 +73,32 @@ A cada dia 01 de cada mês, você pode alterar seu serviço digital.
 ▪️ FLUID,
 ▪️ HUB VANTAGENS
 ▪️ FUZE FORGE"
+Suporte,OS,"Equipamentos desligados por 2 min, sem sucesso.
+Luzes acessas
+Luz vermelha ( ) SIM  ( ) NÂO
+Sinal da ONU: 
+Consegue visualizar nome de seu wifi. 
+Foto em anexo:
+Ponto de referencia: 
+Contato:
+(Cliente ciente do prazo de 24H)"
+Suporte,Teste_velocidade,"Por Favor Desligue seus equipamentos na tomada, aguarde 5 minutos e ligue novamente
+em seguida acesse o link 
+
+https://www.speedtest.net/pt
+
+ e faça o teste de velocidade
+realize o teste próximo ao seu roteador e com apenas seu equipamento conectado ao wi-fi e na rede 5G
+ me envie o print do teste de velocidade pra que eu verifique quanto está chegando"
+Suporte,Teste_loss,"
+Por gentileza realize os teste abaixo, e nos informe:
+
+- desligue os equipamentos da tomada por 2min
+- verifique se tem alguma luz vermelha em seu equipamento
+- nos envie uma foto de seu equipamento
+- Você consegue visualizar o nome de seu wifi ?"
+Suporte,Abrir_chamado,"Será aberto um chamado técnico, por gentileza nos informe telefone para contato e ponto de referencia proximo de sua casa."
+Suporte,Chamado_agendado,"Seu chamado foi colocado em agendamento, o prazo máximo é de 24 horas. No entanto, nossa equipe estará fazendo possível para ser resolvido quanto antes.
+Te ajudo com mais alguma informação?"
+Suporte,Chamado_anatel,"Seu chamado está aberto, conforme a Anatel, o prazo de resolução é de 24 a 48H. Nossa equipe está fazendo possível para ser resolvido quanto antes.
+Te ajudo com mais alguma informação?"
